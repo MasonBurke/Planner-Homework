@@ -1,0 +1,29 @@
+.description {
+    width: 85%;
+    margin-left: 5px;
+}
+
+.morning {
+    background-color: lightcoral;
+}
+
+.lunch {
+    background-color: cyan;
+}
+
+.afterNoon {
+    background-color: lightgreen;
+}
+
+
+.past {
+    background-color: yellow;
+}
+
+.present {
+    background-color: purple;
+}
+
+.future {
+    background-color: orange;
+}
